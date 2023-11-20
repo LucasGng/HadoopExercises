@@ -1,0 +1,5 @@
+11659	Centro-Oeste
+26095	Norte
+29018	Sul
+75329	Sudeste
+79039	Nordeste

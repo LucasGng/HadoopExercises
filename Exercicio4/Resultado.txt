@@ -1,0 +1,5 @@
+Centro-Oeste	62.398796
+Nordeste	37.01694
+Norte	38.2123
+Sudeste	50.97722
+Sul	38.790394
